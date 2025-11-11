@@ -1,0 +1,5 @@
+What is the capital of France?|Paris|London|Rome|Berlin|1
+Which planet is known as the Red Planet?|Earth|Mars|Jupiter|Venus|2
+Who wrote 'Romeo and Juliet'?|Charles Dickens|William Shakespeare|Mark Twain|Jane Austen|2
+What is 2+2?|3|4|5|6|2
+Which language runs on the JVM?|Python|C#|Java|JavaScript|3
